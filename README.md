@@ -7,8 +7,7 @@ This is a Todo App demonstrating how to implement CRUD operations using React an
 https://github.com/ateebasif/react-firebase-authentication-guide/assets/22915645/6cfb3397-77f4-42a3-b5ab-4e914acd84c3
 
 ## Blog Explanation
-
-https://www.ateebay.com/blog/firebase-react-crud-app
+[How to Create a CRUD App with Firebase V9 and React](https://www.ateebay.com/blog/how-to-create-a-crud-app-with-firebase-v9-and-react)
 
 ## Installation
 
